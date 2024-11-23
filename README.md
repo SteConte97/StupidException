@@ -42,21 +42,12 @@ public class Program
         }
         catch (StupidException ex)
         {
-            Console.WriteLine($"Caught an error: {ex.Message}");
+            Console.WriteLine($"Cat: {ex.HttpCatSource}");
+            Console.WriteLine($"Advice: {ex.RandomAdvice}");
         }
     }
 }
 ```
-
-## 🛠 Contributing
-
-Contributions are always welcome! Follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature (`git checkout -b feature/NewFeature`).
-3. Make your changes and commit them (`git commit -m "Add new feature"`).
-4. Push the branch to your fork (`git push origin feature/NewFeature`).
-5. Open a pull request on GitHub.
 
 ---
 
