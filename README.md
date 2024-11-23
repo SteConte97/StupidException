@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/SteConte97/StupidException)](https://github.com/SteConte97/StupidException/stargazers)  
 
-A simple and lightweight C# library to handle exceptions with a very important feature!.
+A simple and lightweight C# library to handle exceptions with a very important feature!
 
 ## 🚀 Key Features
 
