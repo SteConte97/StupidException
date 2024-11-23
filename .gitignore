@@ -1,0 +1,20 @@
+# Ignora bin e obj nella cartella sandbox
+stupidexception/bin/
+stupidexception/obj/
+
+# Altri file temporanei o generati da strumenti di sviluppo
+stupidexception/.vs/
+stupidexception/.vscode/
+stupidexception/*.suo
+stupidexception/*.user
+stupidexception/*.userosscache
+stupidexception/*.rsuser
+stupidexception/*.log
+
+# Ignora build e file specifici del sistema operativo
+stupidexception/*.nupkg
+stupidexception/*.snupkg
+stupidexception/[Dd]ebug/
+stupidexception/[Rr]elease/
+stupidexception/*.DS_Store
+stupidexception/*.log
