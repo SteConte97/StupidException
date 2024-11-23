@@ -2,10 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/SteConte97/StupidException)](https://github.com/SteConte97/StupidException/stargazers)  
 
-A simple and lightweight C# library to handle "stupid" exceptions.
+A simple and lightweight C# library to handle exceptions with a very important feature!.
 
 ## 🚀 Key Features
 
+In addition to the basic exception, it generates:
+- A silly image of a cat (https://http.cat/);
+- A random life advice (https://api.adviceslip.com/);
 
 
 ## 📦 Installation
